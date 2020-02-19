@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 
 *.csv
+run_me.sh
 .idea/
 
 # C extensions
